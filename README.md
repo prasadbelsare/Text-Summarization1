@@ -72,7 +72,9 @@ text-summarization/
 - Enable summarization for different domains (e.g., legal, medical, finance).
 
 ## Contributors
-- **Your Name** - [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+- **Prasad Belsare** - [LinkedIn](https://www.linkedin.com/in/prasadbelsare/) | [GitHub](https://github.com/prasadbelsare)
+- **Sakshi Kangane** - [LinkedIn](https://www.linkedin.com/in/sakshikangane/) | [GitHub](https://github.com/prasadbelsare)
+- **Neeraj Ghate** - [LinkedIn](https://linkedin.com/in/neeraj-ghate) | [GitHub](https://github.com/neerajghate)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
